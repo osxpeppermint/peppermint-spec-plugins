@@ -1,4 +1,4 @@
-peppermint-spec-plugins
+Peppermint Spec Plugins
 =======================
 
 Official Spec Plugins for Peppermint
