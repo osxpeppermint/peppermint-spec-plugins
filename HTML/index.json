@@ -1,0 +1,9 @@
+[
+	{ "title" : "Preview" },
+	{ "title" : "Live Preview" },
+	{ "title" : "--" },
+	{ "title" : "Preview in Browser" },
+	{ "title" : "--" },
+	{ "title" : "Beautify" },
+	{ "title" : "Strip HTML Tags" }
+]

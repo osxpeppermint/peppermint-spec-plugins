@@ -1,0 +1,6 @@
+[
+	{ "title" : "Run" },
+	{ "title" : "Run with Arguments" },
+	{ "title" : "--"},
+	{ "title" : "Debug" }
+]

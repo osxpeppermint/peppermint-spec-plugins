@@ -1,0 +1,6 @@
+{
+	"name"			: "OcamlRun",
+	"category"		: "",
+	"shortcut"		: "@+R",
+	"nosandbox"     : ""
+}

@@ -1,0 +1,6 @@
+{
+	"name"			: "SwiftRunWithArgs",
+	"category"		: "",
+	"shortcut"		: "@$+R",
+	"nosandbox"     : ""
+}

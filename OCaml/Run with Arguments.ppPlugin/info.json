@@ -1,0 +1,6 @@
+{
+	"name"			: "OcamlRunWithArgs",
+	"category"		: "",
+	"shortcut"		: "@$+R",
+	"nosandbox"     : ""
+}

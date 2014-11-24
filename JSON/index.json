@@ -1,0 +1,10 @@
+[
+	{ "title" : "Beautify" },
+	{ "title" : "Validate" },
+	{ "title" : "--" },
+	{ "title" : "Convert", "children":
+		[
+			{ "title" : "-> XML" }
+		]
+	}
+]

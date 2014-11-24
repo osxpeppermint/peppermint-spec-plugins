@@ -1,0 +1,6 @@
+{
+	"name"			: "ObjectivecRunWithArgs",
+	"category"		: "",
+	"shortcut"		: "@$+R",
+	"nosandbox"     : ""
+}

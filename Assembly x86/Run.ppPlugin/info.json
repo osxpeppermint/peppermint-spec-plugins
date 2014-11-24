@@ -1,0 +1,6 @@
+{
+	"name"			: "AssemblyRun",
+	"category"		: "",
+	"shortcut"		: "@+R",
+	"nosandbox"     : ""
+}

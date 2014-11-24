@@ -1,0 +1,6 @@
+{
+	"name"			: "PascalRunWithArgs",
+	"category"		: "",
+	"shortcut"		: "@$+R",
+	"nosandbox"     : ""
+}

@@ -1,0 +1,6 @@
+{
+	"name"			: "CppRun",
+	"category"		: "",
+	"shortcut"		: "@+R",
+	"nosandbox"     : ""
+}

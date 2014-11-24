@@ -1,0 +1,6 @@
+{
+	"name"			: "CRun",
+	"category"		: "",
+	"shortcut"		: "@+R",
+	"nosandbox"     : ""
+}

@@ -1,0 +1,6 @@
+{
+	"name"			: "FortranRunWithArgs",
+	"category"		: "",
+	"shortcut"		: "@$+R",
+	"nosandbox"     : ""
+}
